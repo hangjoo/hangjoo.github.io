@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Process and Thread","categories":"OS"},"fields":{"slug":"/Process_and_Thread/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"List in Python","categories":"python"},"fields":{"slug":"/List_in_Python/"}}},{"node":{"frontmatter":{"title":"Process and Thread","categories":"OS"},"fields":{"slug":"/Process_and_Thread/"}}}]}}}
