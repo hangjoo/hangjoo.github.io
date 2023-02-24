@@ -1,6 +1,8 @@
 import Typography from 'typography'
 import GitHubTheme from 'typography-theme-github'
 
+import './typography.scss'
+
 GitHubTheme.overrideThemeStyles = () => {
   return {
     a: {
