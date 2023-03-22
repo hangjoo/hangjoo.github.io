@@ -22,13 +22,15 @@ GitHubTheme.overrideThemeStyles = () => {
     h1: {
       fontWeight: 800,
       lineHeight: 1.2,
+      marginTop: '64px',
+      marginBottom: '20px',
       fontFamily: 'Sofia Sans',
     },
 
     h2: {
       fontWeight: 700,
       lineHeight: 1.2,
-      marginTop: '56px',
+      marginTop: '48px',
       marginBottom: '20px',
       fontFamily: 'Sofia Sans',
     },

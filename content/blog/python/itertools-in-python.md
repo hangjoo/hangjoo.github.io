@@ -1,7 +1,7 @@
 ---
 title: Itertools in Python
 date: 2023-01-25 22:01:06
-category: python
+category: Python
 thumbnail: { thumbnailSrc }
 draft: false
 ---

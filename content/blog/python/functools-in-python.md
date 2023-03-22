@@ -1,7 +1,7 @@
 ---
 title: Functools in Python
 date: 2023-02-18 00:02:68
-category: python
+category: Python
 thumbnail: { thumbnailSrc }
 draft: false
 ---
