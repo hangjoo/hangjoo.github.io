@@ -20,19 +20,19 @@ GitHubTheme.overrideThemeStyles = () => {
     },
 
     h1: {
-      fontWeight: 800,
+      // fontWeight: 800,
       lineHeight: 1.2,
       marginTop: '64px',
       marginBottom: '20px',
-      fontFamily: 'Sofia Sans',
+      fontFamily: 'Pretendard',
     },
 
     h2: {
-      fontWeight: 700,
+      // fontWeight: 700,
       lineHeight: 1.2,
       marginTop: '48px',
       marginBottom: '20px',
-      fontFamily: 'Sofia Sans',
+      fontFamily: 'Pretendard',
     },
 
     ul: {
