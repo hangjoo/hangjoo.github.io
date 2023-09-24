@@ -1,12 +1,10 @@
 ---
-title: "[논문 리뷰] GAN, Generative Adversarial Nets"
+title: "GAN, Generative Adversarial Nets"
 date: 2023-03-22 20:03:84
-category: AI
+category: CV
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-
-> 이안 굿펠로우(Ian J. Goodfellow)의 GAN 논문을 섹션 별로 요약 및 정리한 글입니다.
 
 # Abstract
 
